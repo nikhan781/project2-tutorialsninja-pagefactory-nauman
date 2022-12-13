@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button class="button" id="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Regression_Suite">
+              <span class="suite-name border-passed">Regression Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Regression_Suite">
+                    <span>C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman\src\test\java\resources\runners\regressiontesting.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Regression_Suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Regression_Suite">
+                    <span>3 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Regression_Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Regression_Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Regression_Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Regression_Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">11 methods,   11 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Regression_Suite" class="hide-methods passed suite-Regression_Suite"> (hide)</a> <!-- hide-methods passed suite-Regression_Suite -->
+                      <a href="#" panel-name="suite-Regression_Suite" class="show-methods passed suite-Regression_Suite"> (show)</a> <!-- show-methods passed suite-Regression_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Regression_Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.DesktopsTest" hash-for-method="verifyProductAreAddedToShoppingCartSuccessFully">verifyProductAreAddedToShoppingCartSuccessFully</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.DesktopsTest" hash-for-method="verifyProductsAreArrangedInAlphabeticalOrder">verifyProductsAreArrangedInAlphabeticalOrder</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest" hash-for-method="verifyProductsPriceDisplayHighToLowSuccessfully">verifyProductsPriceDisplayHighToLowSuccessfully</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest" hash-for-method="verifyThatUserPlaceOrderSuccessfully">verifyThatUserPlaceOrderSuccessfully</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.MyAccountTest" hash-for-method="verifyThatUserRegisterAccountSuccessfully">verifyThatUserRegisterAccountSuccessfully</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.MyAccountTest" hash-for-method="verifyThatUserShouldLoginAndLogoutSuccessfully">verifyThatUserShouldLoginAndLogoutSuccessfully</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.TopMenuTest" hash-for-method="verifyUserShouldNavigateToComponentsPageSuccessfully">verifyUserShouldNavigateToComponentsPageSuccessfully</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.TopMenuTest" hash-for-method="verifyUserShouldNavigateToDesktopsPageSuccessfully">verifyUserShouldNavigateToDesktopsPageSuccessfully</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.TopMenuTest" hash-for-method="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully">verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.MyAccountTest" hash-for-method="verifyUserShouldNavigateToLoginPageSuccessfully">verifyUserShouldNavigateToLoginPageSuccessfully</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="com.tutorialsninja.testsuite.MyAccountTest" hash-for-method="verifyUserShouldNavigateToRegisterPageSuccessfully">verifyUserShouldNavigateToRegisterPageSuccessfully</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Regression_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Regression_Suite" class="panel Regression_Suite">
+          <div class="suite-Regression_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tutorialsninja.testsuite.MyAccountTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyThatUserRegisterAccountSuccessfully">
+                  </a> <!-- verifyThatUserRegisterAccountSuccessfully -->
+                  <span class="method-name">verifyThatUserRegisterAccountSuccessfully</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyThatUserShouldLoginAndLogoutSuccessfully">
+                  </a> <!-- verifyThatUserShouldLoginAndLogoutSuccessfully -->
+                  <span class="method-name">verifyThatUserShouldLoginAndLogoutSuccessfully</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyUserShouldNavigateToLoginPageSuccessfully">
+                  </a> <!-- verifyUserShouldNavigateToLoginPageSuccessfully -->
+                  <span class="method-name">verifyUserShouldNavigateToLoginPageSuccessfully</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyUserShouldNavigateToRegisterPageSuccessfully">
+                  </a> <!-- verifyUserShouldNavigateToRegisterPageSuccessfully -->
+                  <span class="method-name">verifyUserShouldNavigateToRegisterPageSuccessfully</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Regression_Suite-class-passed -->
+          <div class="suite-Regression_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tutorialsninja.testsuite.DesktopsTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyProductAreAddedToShoppingCartSuccessFully">
+                  </a> <!-- verifyProductAreAddedToShoppingCartSuccessFully -->
+                  <span class="method-name">verifyProductAreAddedToShoppingCartSuccessFully</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyProductsAreArrangedInAlphabeticalOrder">
+                  </a> <!-- verifyProductsAreArrangedInAlphabeticalOrder -->
+                  <span class="method-name">verifyProductsAreArrangedInAlphabeticalOrder</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Regression_Suite-class-passed -->
+          <div class="suite-Regression_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tutorialsninja.testsuite.TopMenuTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyUserShouldNavigateToComponentsPageSuccessfully">
+                  </a> <!-- verifyUserShouldNavigateToComponentsPageSuccessfully -->
+                  <span class="method-name">verifyUserShouldNavigateToComponentsPageSuccessfully</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyUserShouldNavigateToDesktopsPageSuccessfully">
+                  </a> <!-- verifyUserShouldNavigateToDesktopsPageSuccessfully -->
+                  <span class="method-name">verifyUserShouldNavigateToDesktopsPageSuccessfully</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully">
+                  </a> <!-- verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully -->
+                  <span class="method-name">verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Regression_Suite-class-passed -->
+          <div class="suite-Regression_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tutorialsninja.testsuite.LaptopsAndNotebooksTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyProductsPriceDisplayHighToLowSuccessfully">
+                  </a> <!-- verifyProductsPriceDisplayHighToLowSuccessfully -->
+                  <span class="method-name">verifyProductsPriceDisplayHighToLowSuccessfully</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyThatUserPlaceOrderSuccessfully">
+                  </a> <!-- verifyThatUserPlaceOrderSuccessfully -->
+                  <span class="method-name">verifyThatUserPlaceOrderSuccessfully</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Regression_Suite-class-passed -->
+        </div> <!-- panel Regression_Suite -->
+        <div panel-name="test-xml-Regression_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman\src\test\java\resources\runners\regressiontesting.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Regression Suite&quot;&gt;
+  &lt;groups&gt;
+    &lt;run&gt;
+      &lt;include name=&quot;regression&quot;/&gt;
+    &lt;/run&gt;
+  &lt;/groups&gt;
+  &lt;groups&gt;
+    &lt;run&gt;
+      &lt;include name=&quot;regression&quot;/&gt;
+    &lt;/run&gt;
+  &lt;/groups&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.tutorialsninja.customlisteners.CustomListeners&quot;/&gt;
+    &lt;listener class-name=&quot;org.uncommons.reportng.HTMLReporter&quot;/&gt;
+    &lt;listener class-name=&quot;org.uncommons.reportng.JUnitXMLReporter&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Regression Test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.tutorialsninja.testsuite.TopMenuTest&quot;/&gt;
+      &lt;class name=&quot;com.tutorialsninja.testsuite.MyAccountTest&quot;/&gt;
+      &lt;class name=&quot;com.tutorialsninja.testsuite.DesktopsTest&quot;/&gt;
+      &lt;class name=&quot;com.tutorialsninja.testsuite.LaptopsAndNotebooksTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Regression Test --&gt;
+&lt;/suite&gt; &lt;!-- Regression Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Regression_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Regression Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Regression Test (4 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Regression_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Regression Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">regression</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyProductAreAddedToShoppingCartSuccessFully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyProductsAreArrangedInAlphabeticalOrder</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyProductsPriceDisplayHighToLowSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyThatUserPlaceOrderSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyThatUserRegisterAccountSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyThatUserShouldLoginAndLogoutSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyUserShouldNavigateToComponentsPageSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyUserShouldNavigateToDesktopsPageSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyUserShouldNavigateToLoginPageSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyUserShouldNavigateToRegisterPageSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">sanity</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyProductsAreArrangedInAlphabeticalOrder</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyProductsPriceDisplayHighToLowSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyUserShouldNavigateToDesktopsPageSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyUserShouldNavigateToRegisterPageSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">smoke</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyProductAreAddedToShoppingCartSuccessFully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyThatUserPlaceOrderSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyUserShouldNavigateToLoginPageSuccessfully</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Regression_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Regression Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Regression_Suite');
+function tableData_Regression_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(11);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'verifyThatUserPlaceOrderSuccessfully')
+data.setCell(0, 2, 'com.tutorialsninja.testsuite.LaptopsAndNotebooksTest')
+data.setCell(0, 3, 9693);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'verifyProductAreAddedToShoppingCartSuccessFully')
+data.setCell(1, 2, 'com.tutorialsninja.testsuite.DesktopsTest')
+data.setCell(1, 3, 8147);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'verifyThatUserShouldLoginAndLogoutSuccessfully')
+data.setCell(2, 2, 'com.tutorialsninja.testsuite.MyAccountTest')
+data.setCell(2, 3, 2637);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'verifyThatUserRegisterAccountSuccessfully')
+data.setCell(3, 2, 'com.tutorialsninja.testsuite.MyAccountTest')
+data.setCell(3, 3, 2528);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'verifyProductsAreArrangedInAlphabeticalOrder')
+data.setCell(4, 2, 'com.tutorialsninja.testsuite.DesktopsTest')
+data.setCell(4, 3, 1403);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'verifyUserShouldNavigateToDesktopsPageSuccessfully')
+data.setCell(5, 2, 'com.tutorialsninja.testsuite.TopMenuTest')
+data.setCell(5, 3, 1177);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'verifyProductsPriceDisplayHighToLowSuccessfully')
+data.setCell(6, 2, 'com.tutorialsninja.testsuite.LaptopsAndNotebooksTest')
+data.setCell(6, 3, 995);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully')
+data.setCell(7, 2, 'com.tutorialsninja.testsuite.TopMenuTest')
+data.setCell(7, 3, 984);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'verifyUserShouldNavigateToComponentsPageSuccessfully')
+data.setCell(8, 2, 'com.tutorialsninja.testsuite.TopMenuTest')
+data.setCell(8, 3, 864);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'verifyUserShouldNavigateToRegisterPageSuccessfully')
+data.setCell(9, 2, 'com.tutorialsninja.testsuite.MyAccountTest')
+data.setCell(9, 3, 465);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'verifyUserShouldNavigateToLoginPageSuccessfully')
+data.setCell(10, 2, 'com.tutorialsninja.testsuite.MyAccountTest')
+data.setCell(10, 3, 331);
+window.suiteTableData['Regression_Suite']= { tableData: data, tableDiv: 'times-div-Regression_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 29 seconds</span>
+              <div id="times-div-Regression_Suite">
+              </div> <!-- times-div-Regression_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Regression_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Regression Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a]]</span>
+                <span class="reporter-method-output">The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a]]</span>
+                <span class="reporter-method-output">The The Laptops And Desktops Text [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfullyTue_Dec_13_21_43_57_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfullyTue_Dec_13_21_43_57_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfullyTue_Dec_13_21_43_57_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyThatUserShouldLoginAndLogoutSuccessfully</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Click on My Account Link [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //span[contains(text(),'My Account')]]</span>
+                <span class="reporter-method-output">Select My Account Options [[[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a]]</span>
+                <span class="reporter-method-output">Click on Login Button [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //input[@class='btn btn-primary']]</span>
+                <span class="reporter-method-output">My Account Text [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //span[contains(text(),'My Account')]]</span>
+                <span class="reporter-method-output">Click on My Account Link [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]</span>
+                <span class="reporter-method-output">Select My Account Options [[[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]</span>
+                <span class="reporter-method-output">Logout Text [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //h1[contains(text(),'Account Logout')]]</span>
+                <span class="reporter-method-output">Click on Logout Link [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //a[contains(text(),'Continue')]]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserShouldLoginAndLogoutSuccessfullyTue_Dec_13_21_44_10_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserShouldLoginAndLogoutSuccessfullyTue_Dec_13_21_44_10_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserShouldLoginAndLogoutSuccessfullyTue_Dec_13_21_44_10_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyProductsAreArrangedInAlphabeticalOrder</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Hover over Desktops Menu [[ChromeDriver: chrome on WINDOWS (d420847e6df48e9f20d0f218a4391811)] -> xpath: //ul[@class='nav navbar-nav']/li[1]]</span>
+                <span class="reporter-method-output">Clicking on Show All Desktops Link [[ChromeDriver: chrome on WINDOWS (d420847e6df48e9f20d0f218a4391811)] -> xpath: //a[contains(text(),'Show All Desktops')]]</span>
+                <span class="reporter-method-output">Sort By Z to A [[ChromeDriver: chrome on WINDOWS (d420847e6df48e9f20d0f218a4391811)] -> xpath: //select[@id='input-sort']]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsAreArrangedInAlphabeticalOrderTue_Dec_13_21_44_34_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsAreArrangedInAlphabeticalOrderTue_Dec_13_21_44_34_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsAreArrangedInAlphabeticalOrderTue_Dec_13_21_44_34_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyUserShouldNavigateToComponentsPageSuccessfully</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a]]</span>
+                <span class="reporter-method-output">The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a]]</span>
+                <span class="reporter-method-output">The Components page text is [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //h2[contains(text(),'Components')]]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToComponentsPageSuccessfullyTue_Dec_13_21_43_48_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToComponentsPageSuccessfullyTue_Dec_13_21_43_48_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToComponentsPageSuccessfullyTue_Dec_13_21_43_48_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyProductsPriceDisplayHighToLowSuccessfully</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Hover over Laptops And NoteBooks Menu [[ChromeDriver: chrome on WINDOWS (da60e0be97f14686637655198b3f5418)] -> xpath: //ul[@class='nav navbar-nav']/li[2]]</span>
+                <span class="reporter-method-output">Clicking on Show All Laptops And NoteBooks Link [[ChromeDriver: chrome on WINDOWS (da60e0be97f14686637655198b3f5418)] -> xpath: //a[contains(text(),'Show All Laptops & Notebooks')]]</span>
+                <span class="reporter-method-output">The products are sorted BY High to Low prices [[ChromeDriver: chrome on WINDOWS (da60e0be97f14686637655198b3f5418)] -> xpath: //select[@id='input-sort']]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsPriceDisplayHighToLowSuccessfullyTue_Dec_13_21_44_38_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsPriceDisplayHighToLowSuccessfullyTue_Dec_13_21_44_38_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsPriceDisplayHighToLowSuccessfullyTue_Dec_13_21_44_38_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyUserShouldNavigateToLoginPageSuccessfully</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Click on My Account Link [[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]</span>
+                <span class="reporter-method-output">Select My Account Options [[[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]</span>
+                <span class="reporter-method-output">The Returning Customer Text is [[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: //h2[contains(text(),'Returning Customer')]]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLoginPageSuccessfullyTue_Dec_13_21_44_13_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLoginPageSuccessfullyTue_Dec_13_21_44_13_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLoginPageSuccessfullyTue_Dec_13_21_44_13_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyProductAreAddedToShoppingCartSuccessFully</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Hover over Desktops Menu [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //ul[@class='nav navbar-nav']/li[1]]</span>
+                <span class="reporter-method-output">Clicking on Show All Desktops Link [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //a[contains(text(),'Show All Desktops')]]</span>
+                <span class="reporter-method-output">Sort By A to Z [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //select[@id='input-sort']]</span>
+                <span class="reporter-method-output">Clicking on Product [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //a[contains(text(),'HP LP3065')]]</span>
+                <span class="reporter-method-output">The Product Name is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: (//div[@class='col-sm-4'])[2]/h1]</span>
+                <span class="reporter-method-output">Clicking on Calender Button [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> css selector: i[class='fa fa-calendar']]</span>
+                <span class="reporter-method-output">Clear text [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //input[@id='input-quantity']]</span>
+                <span class="reporter-method-output">Send quantity 1 to firstname field [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //input[@id='input-quantity']]</span>
+                <span class="reporter-method-output">Clicking on Add To Cart Button [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> id: button-cart]</span>
+                <span class="reporter-method-output">The Success Message is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='alert alert-success alert-dismissible']]</span>
+                <span class="reporter-method-output">Clicking on Shopping Cart Button [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //a[contains(text(),'shopping cart')]]</span>
+                <span class="reporter-method-output">The Shopping Cart Text is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@id='content']/h1]</span>
+                <span class="reporter-method-output">The Product in Cart is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[2]/a]</span>
+                <span class="reporter-method-output">The Delivery Date is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[2]/small[1]]</span>
+                <span class="reporter-method-output">The Model Name is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[3]]</span>
+                <span class="reporter-method-output">The New Total Price is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[6]]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductAreAddedToShoppingCartSuccessFullyTue_Dec_13_21_44_29_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductAreAddedToShoppingCartSuccessFullyTue_Dec_13_21_44_29_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductAreAddedToShoppingCartSuccessFullyTue_Dec_13_21_44_29_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyThatUserPlaceOrderSuccessfully</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a]]</span>
+                <span class="reporter-method-output">The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a]]</span>
+                <span class="reporter-method-output">The products are sorted BY High to Low prices [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //select[@id='input-sort']]</span>
+                <span class="reporter-method-output">The products are [[[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a]]</span>
+                <span class="reporter-method-output">The Product Name is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: (//div[@class='col-sm-4'])[2]/h1]</span>
+                <span class="reporter-method-output">Clicking on Add To Cart Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> id: button-cart]</span>
+                <span class="reporter-method-output">The Success Message is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='alert alert-success alert-dismissible']]</span>
+                <span class="reporter-method-output">Clicking on Shopping Cart Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //a[contains(text(),'shopping cart')]]</span>
+                <span class="reporter-method-output">The Shopping Cart Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/h1]</span>
+                <span class="reporter-method-output">The Product in Cart is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[2]/a]</span>
+                <span class="reporter-method-output">The Quantity is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[4]/div/input]</span>
+                <span class="reporter-method-output">The Shopping Cart Updated Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='alert alert-success alert-dismissible']]</span>
+                <span class="reporter-method-output">The New Total Price is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[6]]</span>
+                <span class="reporter-method-output">Click on guest checkout  Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //a[contains(text(),'Checkout')]]</span>
+                <span class="reporter-method-output">The Checkout Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //h1[contains(text(),'Checkout')]]</span>
+                <span class="reporter-method-output">The New Customer Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //h2[contains(text(),'New Customer')]]</span>
+                <span class="reporter-method-output">Click on guest checkout  Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='panel-group']/div[1]/div[2]/div/div/div[1]/div[2]/label/input]</span>
+                <span class="reporter-method-output">Clicking on continue Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='button-account']]</span>
+                <span class="reporter-method-output">Enter user first name Prime to firstname field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-firstname']]</span>
+                <span class="reporter-method-output">Enter user last name Testing to lastname field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-lastname']]</span>
+                <span class="reporter-method-output">Enter user email prime to email field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-email']]</span>
+                <span class="reporter-method-output">Enter telephone number 020876579 to Telephone Number field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-telephone']]</span>
+                <span class="reporter-method-output">Enter Address 1 Street to Address field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-address-1']]</span>
+                <span class="reporter-method-output">Enter city name London to City name field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-city']]</span>
+                <span class="reporter-method-output">Enter postcode L1 2B to username field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-postcode']]</span>
+                <span class="reporter-method-output">Select country United Kingdom to Country field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //select[@id='input-payment-country']]</span>
+                <span class="reporter-method-output">Select region Greater London to Region field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //select[@id='input-payment-zone']]</span>
+                <span class="reporter-method-output">Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> css selector: #button-guest]</span>
+                <span class="reporter-method-output">Enter comments Please wrap the product to Comment field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='panel-group']/div[3]/div[2]/div[1]/p[2]/textarea[1]]</span>
+                <span class="reporter-method-output">Clicking on term and conditions box [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> name: agree]</span>
+                <span class="reporter-method-output">Clicking on continue Button in comment section [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='button-payment-method']]</span>
+                <span class="reporter-method-output">The payment error message is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='panel-group']/div[3]/div[2]/div/div[1]]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_44_52_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_44_52_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_44_52_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyUserShouldNavigateToDesktopsPageSuccessfully</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a]]</span>
+                <span class="reporter-method-output">The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a]]</span>
+                <span class="reporter-method-output">The Desktop page Text  [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //h2[contains(text(),'Desktops')]]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToDesktopsPageSuccessfullyTue_Dec_13_21_43_53_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToDesktopsPageSuccessfullyTue_Dec_13_21_43_53_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToDesktopsPageSuccessfullyTue_Dec_13_21_43_53_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyThatUserRegisterAccountSuccessfully</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Click on My Account Link [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //span[contains(text(),'My Account')]]</span>
+                <span class="reporter-method-output">Select My Account Options [[[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a]]</span>
+                <span class="reporter-method-output">Enter user first name Hulk to First Name field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> name: firstname]</span>
+                <span class="reporter-method-output">Enter user last name Man to Last Name field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-lastname]</span>
+                <span class="reporter-method-output">Enter user email hulk to Email field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-email]</span>
+                <span class="reporter-method-output">Enter telephone number 07865438934 to Telephone Number field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-telephone]</span>
+                <span class="reporter-method-output">Enter password hulk123 to Password field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-password]</span>
+                <span class="reporter-method-output">Enter password again hulk123 to Confirm Password field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-confirm]</span>
+                <span class="reporter-method-output">Select Subscribe Option[[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-password]</span>
+                <span class="reporter-method-output">Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> name: agree]</span>
+                <span class="reporter-method-output">Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //input[@class='btn btn-primary']]</span>
+                <span class="reporter-method-output">The Account Created Text is [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //h1[contains(text(),'Your Account Has Been Created!')]]</span>
+                <span class="reporter-method-output">Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //a[contains(text(),'Continue')]]</span>
+                <span class="reporter-method-output">Click on My Account Link [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]</span>
+                <span class="reporter-method-output">Select My Account Options [[[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]</span>
+                <span class="reporter-method-output">The Logout Account Text is [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //h1[contains(text(),'Account Logout')]]</span>
+                <span class="reporter-method-output">Click on Continue Button [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //a[contains(text(),'Continue')]]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_44_03_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_44_03_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_44_03_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyUserShouldNavigateToRegisterPageSuccessfully</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Click on My Account Link [[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]</span>
+                <span class="reporter-method-output">Select My Account Options [[[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]</span>
+                <span class="reporter-method-output">The Register Account Text is [[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: //h1[contains(text(),'Register Account')]]</span>
+                <span class="reporter-method-output">Click to see screenshot</span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToRegisterPageSuccessfullyTue_Dec_13_21_44_17_GMT_2022.jpg>Screenshot</a></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><br></span>
+                <span class="reporter-method-output"><a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToRegisterPageSuccessfullyTue_Dec_13_21_44_17_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToRegisterPageSuccessfullyTue_Dec_13_21_44_17_GMT_2022.jpg height=200 width=200></img></a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Regression_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Regression_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tutorialsninja.testsuite.TopMenuTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">3737 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyUserShouldNavigateToComponentsPageSuccessfully</span>
+                <span class="method-start">3739 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">4903 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">5530 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">8046 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyUserShouldNavigateToDesktopsPageSuccessfully</span>
+                <span class="method-start">8047 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">9607 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">10205 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">12695 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully</span>
+                <span class="method-start">12696 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">14046 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tutorialsninja.testsuite.MyAccountTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">14668 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">17161 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyThatUserRegisterAccountSuccessfully</span>
+                <span class="method-start">17164 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">20131 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">20741 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">23361 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyThatUserShouldLoginAndLogoutSuccessfully</span>
+                <span class="method-start">23362 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">26442 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">27050 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">29680 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyUserShouldNavigateToLoginPageSuccessfully</span>
+                <span class="method-start">29681 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">30332 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">30939 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">33415 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyUserShouldNavigateToRegisterPageSuccessfully</span>
+                <span class="method-start">33416 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">34225 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tutorialsninja.testsuite.DesktopsTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">34832 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">37406 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyProductAreAddedToShoppingCartSuccessFully</span>
+                <span class="method-start">37408 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">45859 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">46461 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">49072 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyProductsAreArrangedInAlphabeticalOrder</span>
+                <span class="method-start">49073 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">50837 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tutorialsninja.testsuite.LaptopsAndNotebooksTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">51448 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">53953 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyProductsPriceDisplayHighToLowSuccessfully</span>
+                <span class="method-start">53955 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">55309 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">55923 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyThatUserPlaceOrderSuccessfully</span>
+                <span class="method-start">58528 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method before">
+                <span class="method-name">classObjects</span>
+                <span class="method-start">58528 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">68566 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

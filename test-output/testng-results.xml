@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+    <line>
+      <![CDATA[The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+    </line>
+    <line>
+      <![CDATA[The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+    </line>
+    <line>
+      <![CDATA[The Components page text is [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //h2[contains(text(),'Components')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToComponentsPageSuccessfullyTue_Dec_13_21_43_48_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToComponentsPageSuccessfullyTue_Dec_13_21_43_48_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToComponentsPageSuccessfullyTue_Dec_13_21_43_48_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+    </line>
+    <line>
+      <![CDATA[The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+    </line>
+    <line>
+      <![CDATA[The Desktop page Text  [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //h2[contains(text(),'Desktops')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToDesktopsPageSuccessfullyTue_Dec_13_21_43_53_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToDesktopsPageSuccessfullyTue_Dec_13_21_43_53_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToDesktopsPageSuccessfullyTue_Dec_13_21_43_53_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+    </line>
+    <line>
+      <![CDATA[The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+    </line>
+    <line>
+      <![CDATA[The The Laptops And Desktops Text [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfullyTue_Dec_13_21_43_57_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfullyTue_Dec_13_21_43_57_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfullyTue_Dec_13_21_43_57_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //span[contains(text(),'My Account')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a]]]]>
+    </line>
+    <line>
+      <![CDATA[Enter user first name Hulk to First Name field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> name: firstname]]]>
+    </line>
+    <line>
+      <![CDATA[Enter user last name Man to Last Name field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-lastname]]]>
+    </line>
+    <line>
+      <![CDATA[Enter user email hulk to Email field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-email]]]>
+    </line>
+    <line>
+      <![CDATA[Enter telephone number 07865438934 to Telephone Number field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-telephone]]]>
+    </line>
+    <line>
+      <![CDATA[Enter password hulk123 to Password field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-password]]]>
+    </line>
+    <line>
+      <![CDATA[Enter password again hulk123 to Confirm Password field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-confirm]]]>
+    </line>
+    <line>
+      <![CDATA[Select Subscribe Option[[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-password]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> name: agree]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //input[@class='btn btn-primary']]]]>
+    </line>
+    <line>
+      <![CDATA[The Account Created Text is [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //h1[contains(text(),'Your Account Has Been Created!')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //a[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]]]>
+    </line>
+    <line>
+      <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]]]>
+    </line>
+    <line>
+      <![CDATA[The Logout Account Text is [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //h1[contains(text(),'Account Logout')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on Continue Button [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //a[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_44_03_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_44_03_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_44_03_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //span[contains(text(),'My Account')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on Login Button [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //input[@class='btn btn-primary']]]]>
+    </line>
+    <line>
+      <![CDATA[My Account Text [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //span[contains(text(),'My Account')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]]]>
+    </line>
+    <line>
+      <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]]]>
+    </line>
+    <line>
+      <![CDATA[Logout Text [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //h1[contains(text(),'Account Logout')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on Logout Link [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //a[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserShouldLoginAndLogoutSuccessfullyTue_Dec_13_21_44_10_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserShouldLoginAndLogoutSuccessfullyTue_Dec_13_21_44_10_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserShouldLoginAndLogoutSuccessfullyTue_Dec_13_21_44_10_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]]]>
+    </line>
+    <line>
+      <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]]]>
+    </line>
+    <line>
+      <![CDATA[The Returning Customer Text is [[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: //h2[contains(text(),'Returning Customer')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLoginPageSuccessfullyTue_Dec_13_21_44_13_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLoginPageSuccessfullyTue_Dec_13_21_44_13_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLoginPageSuccessfullyTue_Dec_13_21_44_13_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]]]>
+    </line>
+    <line>
+      <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]]]>
+    </line>
+    <line>
+      <![CDATA[The Register Account Text is [[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: //h1[contains(text(),'Register Account')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToRegisterPageSuccessfullyTue_Dec_13_21_44_17_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToRegisterPageSuccessfullyTue_Dec_13_21_44_17_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToRegisterPageSuccessfullyTue_Dec_13_21_44_17_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Hover over Desktops Menu [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //ul[@class='nav navbar-nav']/li[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Show All Desktops Link [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //a[contains(text(),'Show All Desktops')]]]]>
+    </line>
+    <line>
+      <![CDATA[Sort By A to Z [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //select[@id='input-sort']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Product [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //a[contains(text(),'HP LP3065')]]]]>
+    </line>
+    <line>
+      <![CDATA[The Product Name is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: (//div[@class='col-sm-4'])[2]/h1]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Calender Button [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> css selector: i[class='fa fa-calendar']]]]>
+    </line>
+    <line>
+      <![CDATA[Clear text [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //input[@id='input-quantity']]]]>
+    </line>
+    <line>
+      <![CDATA[Send quantity 1 to firstname field [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //input[@id='input-quantity']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Add To Cart Button [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> id: button-cart]]]>
+    </line>
+    <line>
+      <![CDATA[The Success Message is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='alert alert-success alert-dismissible']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Shopping Cart Button [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //a[contains(text(),'shopping cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[The Shopping Cart Text is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@id='content']/h1]]]>
+    </line>
+    <line>
+      <![CDATA[The Product in Cart is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[2]/a]]]>
+    </line>
+    <line>
+      <![CDATA[The Delivery Date is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[2]/small[1]]]]>
+    </line>
+    <line>
+      <![CDATA[The Model Name is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[3]]]]>
+    </line>
+    <line>
+      <![CDATA[The New Total Price is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[6]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductAreAddedToShoppingCartSuccessFullyTue_Dec_13_21_44_29_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductAreAddedToShoppingCartSuccessFullyTue_Dec_13_21_44_29_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductAreAddedToShoppingCartSuccessFullyTue_Dec_13_21_44_29_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Hover over Desktops Menu [[ChromeDriver: chrome on WINDOWS (d420847e6df48e9f20d0f218a4391811)] -> xpath: //ul[@class='nav navbar-nav']/li[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Show All Desktops Link [[ChromeDriver: chrome on WINDOWS (d420847e6df48e9f20d0f218a4391811)] -> xpath: //a[contains(text(),'Show All Desktops')]]]]>
+    </line>
+    <line>
+      <![CDATA[Sort By Z to A [[ChromeDriver: chrome on WINDOWS (d420847e6df48e9f20d0f218a4391811)] -> xpath: //select[@id='input-sort']]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsAreArrangedInAlphabeticalOrderTue_Dec_13_21_44_34_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsAreArrangedInAlphabeticalOrderTue_Dec_13_21_44_34_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsAreArrangedInAlphabeticalOrderTue_Dec_13_21_44_34_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Hover over Laptops And NoteBooks Menu [[ChromeDriver: chrome on WINDOWS (da60e0be97f14686637655198b3f5418)] -> xpath: //ul[@class='nav navbar-nav']/li[2]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Show All Laptops And NoteBooks Link [[ChromeDriver: chrome on WINDOWS (da60e0be97f14686637655198b3f5418)] -> xpath: //a[contains(text(),'Show All Laptops & Notebooks')]]]]>
+    </line>
+    <line>
+      <![CDATA[The products are sorted BY High to Low prices [[ChromeDriver: chrome on WINDOWS (da60e0be97f14686637655198b3f5418)] -> xpath: //select[@id='input-sort']]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsPriceDisplayHighToLowSuccessfullyTue_Dec_13_21_44_38_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsPriceDisplayHighToLowSuccessfullyTue_Dec_13_21_44_38_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsPriceDisplayHighToLowSuccessfullyTue_Dec_13_21_44_38_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+    </line>
+    <line>
+      <![CDATA[The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+    </line>
+    <line>
+      <![CDATA[The products are sorted BY High to Low prices [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //select[@id='input-sort']]]]>
+    </line>
+    <line>
+      <![CDATA[The products are [[[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a]]]]>
+    </line>
+    <line>
+      <![CDATA[The Product Name is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: (//div[@class='col-sm-4'])[2]/h1]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Add To Cart Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> id: button-cart]]]>
+    </line>
+    <line>
+      <![CDATA[The Success Message is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='alert alert-success alert-dismissible']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Shopping Cart Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //a[contains(text(),'shopping cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[The Shopping Cart Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/h1]]]>
+    </line>
+    <line>
+      <![CDATA[The Product in Cart is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[2]/a]]]>
+    </line>
+    <line>
+      <![CDATA[The Quantity is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[4]/div/input]]]>
+    </line>
+    <line>
+      <![CDATA[The Shopping Cart Updated Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='alert alert-success alert-dismissible']]]]>
+    </line>
+    <line>
+      <![CDATA[The New Total Price is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[6]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on guest checkout  Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //a[contains(text(),'Checkout')]]]]>
+    </line>
+    <line>
+      <![CDATA[The Checkout Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //h1[contains(text(),'Checkout')]]]]>
+    </line>
+    <line>
+      <![CDATA[The New Customer Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //h2[contains(text(),'New Customer')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on guest checkout  Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='panel-group']/div[1]/div[2]/div/div/div[1]/div[2]/label/input]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='button-account']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter user first name Prime to firstname field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-firstname']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter user last name Testing to lastname field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-lastname']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter user email prime to email field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-email']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter telephone number 020876579 to Telephone Number field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-telephone']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter Address 1 Street to Address field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-address-1']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter city name London to City name field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-city']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter postcode L1 2B to username field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-postcode']]]]>
+    </line>
+    <line>
+      <![CDATA[Select country United Kingdom to Country field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //select[@id='input-payment-country']]]]>
+    </line>
+    <line>
+      <![CDATA[Select region Greater London to Region field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //select[@id='input-payment-zone']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> css selector: #button-guest]]]>
+    </line>
+    <line>
+      <![CDATA[Enter comments Please wrap the product to Comment field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='panel-group']/div[3]/div[2]/div[1]/p[2]/textarea[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on term and conditions box [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> name: agree]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue Button in comment section [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='button-payment-method']]]]>
+    </line>
+    <line>
+      <![CDATA[The payment error message is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='panel-group']/div[3]/div[2]/div/div[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_44_52_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_44_52_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_44_52_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="69376" started-at="2022-12-13T21:43:43 GMT" finished-at="2022-12-13T21:44:52 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="DesktopsTest.verifyProductAreAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="verifyProductAreAddedToShoppingCartSuccessFully" class="com.tutorialsninja.testsuite.DesktopsTest"/>
+        <method signature="DesktopsTest.verifyProductsAreArrangedInAlphabeticalOrder()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="verifyProductsAreArrangedInAlphabeticalOrder" class="com.tutorialsninja.testsuite.DesktopsTest"/>
+        <method signature="LaptopsAndNotebooksTest.verifyProductsPriceDisplayHighToLowSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="verifyProductsPriceDisplayHighToLowSuccessfully" class="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest"/>
+        <method signature="LaptopsAndNotebooksTest.verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="verifyThatUserPlaceOrderSuccessfully" class="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest"/>
+        <method signature="MyAccountTest.verifyThatUserRegisterAccountSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="verifyThatUserRegisterAccountSuccessfully" class="com.tutorialsninja.testsuite.MyAccountTest"/>
+        <method signature="MyAccountTest.verifyThatUserShouldLoginAndLogoutSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="verifyThatUserShouldLoginAndLogoutSuccessfully" class="com.tutorialsninja.testsuite.MyAccountTest"/>
+        <method signature="MyAccountTest.verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="verifyUserShouldNavigateToLoginPageSuccessfully" class="com.tutorialsninja.testsuite.MyAccountTest"/>
+        <method signature="MyAccountTest.verifyUserShouldNavigateToRegisterPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="verifyUserShouldNavigateToRegisterPageSuccessfully" class="com.tutorialsninja.testsuite.MyAccountTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToComponentsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="verifyUserShouldNavigateToComponentsPageSuccessfully" class="com.tutorialsninja.testsuite.TopMenuTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToDesktopsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="verifyUserShouldNavigateToDesktopsPageSuccessfully" class="com.tutorialsninja.testsuite.TopMenuTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" class="com.tutorialsninja.testsuite.TopMenuTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="DesktopsTest.verifyProductAreAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="verifyProductAreAddedToShoppingCartSuccessFully" class="com.tutorialsninja.testsuite.DesktopsTest"/>
+        <method signature="LaptopsAndNotebooksTest.verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="verifyThatUserPlaceOrderSuccessfully" class="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest"/>
+        <method signature="MyAccountTest.verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="verifyUserShouldNavigateToLoginPageSuccessfully" class="com.tutorialsninja.testsuite.MyAccountTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" class="com.tutorialsninja.testsuite.TopMenuTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="DesktopsTest.verifyProductsAreArrangedInAlphabeticalOrder()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="verifyProductsAreArrangedInAlphabeticalOrder" class="com.tutorialsninja.testsuite.DesktopsTest"/>
+        <method signature="LaptopsAndNotebooksTest.verifyProductsPriceDisplayHighToLowSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="verifyProductsPriceDisplayHighToLowSuccessfully" class="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest"/>
+        <method signature="MyAccountTest.verifyUserShouldNavigateToRegisterPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="verifyUserShouldNavigateToRegisterPageSuccessfully" class="com.tutorialsninja.testsuite.MyAccountTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToDesktopsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="verifyUserShouldNavigateToDesktopsPageSuccessfully" class="com.tutorialsninja.testsuite.TopMenuTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Regression Test" duration-ms="69376" started-at="2022-12-13T21:43:43 GMT" finished-at="2022-12-13T21:44:52 GMT">
+      <class name="com.tutorialsninja.testsuite.TopMenuTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="setUp" is-config="true" duration-ms="3736" started-at="2022-12-13T21:43:43 GMT" finished-at="2022-12-13T21:43:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="classObjects" is-config="true" duration-ms="2" started-at="2022-12-13T21:43:47 GMT" finished-at="2022-12-13T21:43:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToComponentsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="verifyUserShouldNavigateToComponentsPageSuccessfully" duration-ms="864" started-at="2022-12-13T21:43:47 GMT" finished-at="2022-12-13T21:43:48 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+            </line>
+            <line>
+              <![CDATA[The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+            </line>
+            <line>
+              <![CDATA[The Components page text is [[ChromeDriver: chrome on WINDOWS (f19df8777bade229fa1b4c2dfdf1e7ca)] -> xpath: //h2[contains(text(),'Components')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToComponentsPageSuccessfullyTue_Dec_13_21_43_48_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToComponentsPageSuccessfullyTue_Dec_13_21_43_48_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToComponentsPageSuccessfullyTue_Dec_13_21_43_48_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToComponentsPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="tearDown" is-config="true" duration-ms="626" started-at="2022-12-13T21:43:48 GMT" finished-at="2022-12-13T21:43:49 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="setUp" is-config="true" duration-ms="2516" started-at="2022-12-13T21:43:49 GMT" finished-at="2022-12-13T21:43:51 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="classObjects" is-config="true" duration-ms="1" started-at="2022-12-13T21:43:51 GMT" finished-at="2022-12-13T21:43:51 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToDesktopsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="verifyUserShouldNavigateToDesktopsPageSuccessfully" duration-ms="1177" started-at="2022-12-13T21:43:51 GMT" finished-at="2022-12-13T21:43:52 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+            </line>
+            <line>
+              <![CDATA[The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+            </line>
+            <line>
+              <![CDATA[The Desktop page Text  [[ChromeDriver: chrome on WINDOWS (8151a91cafffc9090deb27edd3e33bc8)] -> xpath: //h2[contains(text(),'Desktops')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToDesktopsPageSuccessfullyTue_Dec_13_21_43_53_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToDesktopsPageSuccessfullyTue_Dec_13_21_43_53_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToDesktopsPageSuccessfullyTue_Dec_13_21_43_53_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToDesktopsPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="tearDown" is-config="true" duration-ms="597" started-at="2022-12-13T21:43:53 GMT" finished-at="2022-12-13T21:43:53 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="setUp" is-config="true" duration-ms="2490" started-at="2022-12-13T21:43:53 GMT" finished-at="2022-12-13T21:43:56 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="classObjects" is-config="true" duration-ms="1" started-at="2022-12-13T21:43:56 GMT" finished-at="2022-12-13T21:43:56 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" duration-ms="984" started-at="2022-12-13T21:43:56 GMT" finished-at="2022-12-13T21:43:57 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+            </line>
+            <line>
+              <![CDATA[The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+            </line>
+            <line>
+              <![CDATA[The The Laptops And Desktops Text [[ChromeDriver: chrome on WINDOWS (0700e8d215ea68cb837b04bd50295680)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfullyTue_Dec_13_21_43_57_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfullyTue_Dec_13_21_43_57_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfullyTue_Dec_13_21_43_57_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@33b37288]" name="tearDown" is-config="true" duration-ms="620" started-at="2022-12-13T21:43:57 GMT" finished-at="2022-12-13T21:43:58 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.TopMenuTest -->
+      <class name="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="setUp" is-config="true" duration-ms="2505" started-at="2022-12-13T21:44:35 GMT" finished-at="2022-12-13T21:44:37 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="classObjects" is-config="true" duration-ms="2" started-at="2022-12-13T21:44:37 GMT" finished-at="2022-12-13T21:44:37 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="verifyProductsPriceDisplayHighToLowSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="verifyProductsPriceDisplayHighToLowSuccessfully" duration-ms="995" started-at="2022-12-13T21:44:37 GMT" finished-at="2022-12-13T21:44:38 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Hover over Laptops And NoteBooks Menu [[ChromeDriver: chrome on WINDOWS (da60e0be97f14686637655198b3f5418)] -> xpath: //ul[@class='nav navbar-nav']/li[2]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Show All Laptops And NoteBooks Link [[ChromeDriver: chrome on WINDOWS (da60e0be97f14686637655198b3f5418)] -> xpath: //a[contains(text(),'Show All Laptops & Notebooks')]]]]>
+            </line>
+            <line>
+              <![CDATA[The products are sorted BY High to Low prices [[ChromeDriver: chrome on WINDOWS (da60e0be97f14686637655198b3f5418)] -> xpath: //select[@id='input-sort']]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsPriceDisplayHighToLowSuccessfullyTue_Dec_13_21_44_38_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsPriceDisplayHighToLowSuccessfullyTue_Dec_13_21_44_38_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsPriceDisplayHighToLowSuccessfullyTue_Dec_13_21_44_38_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPriceDisplayHighToLowSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="tearDown" is-config="true" duration-ms="613" started-at="2022-12-13T21:44:38 GMT" finished-at="2022-12-13T21:44:39 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="setUp" is-config="true" duration-ms="2604" started-at="2022-12-13T21:44:39 GMT" finished-at="2022-12-13T21:44:42 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="verifyThatUserPlaceOrderSuccessfully" duration-ms="9693" started-at="2022-12-13T21:44:42 GMT" finished-at="2022-12-13T21:44:51 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[The Top Menu Options are [[[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+            </line>
+            <line>
+              <![CDATA[The Top Menu Options are  [[[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //nav[@id='menu']//ul//li//a]]]]>
+            </line>
+            <line>
+              <![CDATA[The products are sorted BY High to Low prices [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //select[@id='input-sort']]]]>
+            </line>
+            <line>
+              <![CDATA[The products are [[[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a], [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/div[4]//div/child::h4/a]]]]>
+            </line>
+            <line>
+              <![CDATA[The Product Name is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: (//div[@class='col-sm-4'])[2]/h1]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Add To Cart Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> id: button-cart]]]>
+            </line>
+            <line>
+              <![CDATA[The Success Message is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='alert alert-success alert-dismissible']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Shopping Cart Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //a[contains(text(),'shopping cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[The Shopping Cart Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@id='content']/h1]]]>
+            </line>
+            <line>
+              <![CDATA[The Product in Cart is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[2]/a]]]>
+            </line>
+            <line>
+              <![CDATA[The Quantity is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[4]/div/input]]]>
+            </line>
+            <line>
+              <![CDATA[The Shopping Cart Updated Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='alert alert-success alert-dismissible']]]]>
+            </line>
+            <line>
+              <![CDATA[The New Total Price is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[6]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on guest checkout  Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //a[contains(text(),'Checkout')]]]]>
+            </line>
+            <line>
+              <![CDATA[The Checkout Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //h1[contains(text(),'Checkout')]]]]>
+            </line>
+            <line>
+              <![CDATA[The New Customer Text is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //h2[contains(text(),'New Customer')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on guest checkout  Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='panel-group']/div[1]/div[2]/div/div/div[1]/div[2]/label/input]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue Button [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='button-account']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter user first name Prime to firstname field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-firstname']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter user last name Testing to lastname field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-lastname']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter user email prime to email field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-email']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter telephone number 020876579 to Telephone Number field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-telephone']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter Address 1 Street to Address field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-address-1']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter city name London to City name field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-city']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter postcode L1 2B to username field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='input-payment-postcode']]]]>
+            </line>
+            <line>
+              <![CDATA[Select country United Kingdom to Country field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //select[@id='input-payment-country']]]]>
+            </line>
+            <line>
+              <![CDATA[Select region Greater London to Region field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //select[@id='input-payment-zone']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> css selector: #button-guest]]]>
+            </line>
+            <line>
+              <![CDATA[Enter comments Please wrap the product to Comment field [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='panel-group']/div[3]/div[2]/div[1]/p[2]/textarea[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on term and conditions box [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> name: agree]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue Button in comment section [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //input[@id='button-payment-method']]]]>
+            </line>
+            <line>
+              <![CDATA[The payment error message is [[ChromeDriver: chrome on WINDOWS (4bcd7b7f8652f1d9161fafc7285f3d21)] -> xpath: //div[@class='panel-group']/div[3]/div[2]/div/div[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_44_52_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_44_52_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_44_52_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserPlaceOrderSuccessfully -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="classObjects" is-config="true" duration-ms="0" started-at="2022-12-13T21:44:42 GMT" finished-at="2022-12-13T21:44:42 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@25359ed8]" name="tearDown" is-config="true" duration-ms="618" started-at="2022-12-13T21:44:52 GMT" finished-at="2022-12-13T21:44:52 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.LaptopsAndNotebooksTest -->
+      <class name="com.tutorialsninja.testsuite.MyAccountTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="setUp" is-config="true" duration-ms="2493" started-at="2022-12-13T21:43:58 GMT" finished-at="2022-12-13T21:44:00 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="classObjects" is-config="true" duration-ms="3" started-at="2022-12-13T21:44:00 GMT" finished-at="2022-12-13T21:44:00 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="verifyThatUserRegisterAccountSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="verifyThatUserRegisterAccountSuccessfully" duration-ms="2528" started-at="2022-12-13T21:44:00 GMT" finished-at="2022-12-13T21:44:03 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //span[contains(text(),'My Account')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a]]]]>
+            </line>
+            <line>
+              <![CDATA[Enter user first name Hulk to First Name field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> name: firstname]]]>
+            </line>
+            <line>
+              <![CDATA[Enter user last name Man to Last Name field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-lastname]]]>
+            </line>
+            <line>
+              <![CDATA[Enter user email hulk to Email field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-email]]]>
+            </line>
+            <line>
+              <![CDATA[Enter telephone number 07865438934 to Telephone Number field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-telephone]]]>
+            </line>
+            <line>
+              <![CDATA[Enter password hulk123 to Password field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-password]]]>
+            </line>
+            <line>
+              <![CDATA[Enter password again hulk123 to Confirm Password field [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-confirm]]]>
+            </line>
+            <line>
+              <![CDATA[Select Subscribe Option[[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> id: input-password]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> name: agree]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //input[@class='btn btn-primary']]]]>
+            </line>
+            <line>
+              <![CDATA[The Account Created Text is [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //h1[contains(text(),'Your Account Has Been Created!')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue Button in guest section [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //a[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]]]>
+            </line>
+            <line>
+              <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]]]>
+            </line>
+            <line>
+              <![CDATA[The Logout Account Text is [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //h1[contains(text(),'Account Logout')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on Continue Button [[ChromeDriver: chrome on WINDOWS (59b913199ac509a3c055181679ce00cc)] -> xpath: //a[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_44_03_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_44_03_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_44_03_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserRegisterAccountSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="tearDown" is-config="true" duration-ms="610" started-at="2022-12-13T21:44:03 GMT" finished-at="2022-12-13T21:44:04 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="setUp" is-config="true" duration-ms="2619" started-at="2022-12-13T21:44:04 GMT" finished-at="2022-12-13T21:44:06 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="classObjects" is-config="true" duration-ms="0" started-at="2022-12-13T21:44:06 GMT" finished-at="2022-12-13T21:44:06 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="verifyThatUserShouldLoginAndLogoutSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="verifyThatUserShouldLoginAndLogoutSuccessfully" duration-ms="2637" started-at="2022-12-13T21:44:06 GMT" finished-at="2022-12-13T21:44:09 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //span[contains(text(),'My Account')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li//a]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on Login Button [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //input[@class='btn btn-primary']]]]>
+            </line>
+            <line>
+              <![CDATA[My Account Text [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //span[contains(text(),'My Account')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]]]>
+            </line>
+            <line>
+              <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]]]>
+            </line>
+            <line>
+              <![CDATA[Logout Text [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //h1[contains(text(),'Account Logout')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on Logout Link [[ChromeDriver: chrome on WINDOWS (4e171114a0dd6687443f1883f7a1da39)] -> xpath: //a[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserShouldLoginAndLogoutSuccessfullyTue_Dec_13_21_44_10_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserShouldLoginAndLogoutSuccessfullyTue_Dec_13_21_44_10_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyThatUserShouldLoginAndLogoutSuccessfullyTue_Dec_13_21_44_10_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserShouldLoginAndLogoutSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="tearDown" is-config="true" duration-ms="607" started-at="2022-12-13T21:44:10 GMT" finished-at="2022-12-13T21:44:10 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="setUp" is-config="true" duration-ms="2629" started-at="2022-12-13T21:44:10 GMT" finished-at="2022-12-13T21:44:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="classObjects" is-config="true" duration-ms="1" started-at="2022-12-13T21:44:13 GMT" finished-at="2022-12-13T21:44:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="verifyUserShouldNavigateToLoginPageSuccessfully" duration-ms="331" started-at="2022-12-13T21:44:13 GMT" finished-at="2022-12-13T21:44:13 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]]]>
+            </line>
+            <line>
+              <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]]]>
+            </line>
+            <line>
+              <![CDATA[The Returning Customer Text is [[ChromeDriver: chrome on WINDOWS (91702f5d10fd9beb847eec9d875427c1)] -> xpath: //h2[contains(text(),'Returning Customer')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLoginPageSuccessfullyTue_Dec_13_21_44_13_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLoginPageSuccessfullyTue_Dec_13_21_44_13_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToLoginPageSuccessfullyTue_Dec_13_21_44_13_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLoginPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="tearDown" is-config="true" duration-ms="606" started-at="2022-12-13T21:44:13 GMT" finished-at="2022-12-13T21:44:14 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="setUp" is-config="true" duration-ms="2476" started-at="2022-12-13T21:44:14 GMT" finished-at="2022-12-13T21:44:17 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="classObjects" is-config="true" duration-ms="1" started-at="2022-12-13T21:44:17 GMT" finished-at="2022-12-13T21:44:17 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToRegisterPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="verifyUserShouldNavigateToRegisterPageSuccessfully" duration-ms="465" started-at="2022-12-13T21:44:17 GMT" finished-at="2022-12-13T21:44:17 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on My Account Link [[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: (//span[@class='hidden-xs hidden-sm hidden-md'])[3]]]]>
+            </line>
+            <line>
+              <![CDATA[Select My Account Options [[[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li], [[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//li]]]]>
+            </line>
+            <line>
+              <![CDATA[The Register Account Text is [[ChromeDriver: chrome on WINDOWS (5a29510da7936a411fcedcda73563df4)] -> xpath: //h1[contains(text(),'Register Account')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToRegisterPageSuccessfullyTue_Dec_13_21_44_17_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToRegisterPageSuccessfullyTue_Dec_13_21_44_17_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyUserShouldNavigateToRegisterPageSuccessfullyTue_Dec_13_21_44_17_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToRegisterPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountTest@1372ed45]" name="tearDown" is-config="true" duration-ms="606" started-at="2022-12-13T21:44:17 GMT" finished-at="2022-12-13T21:44:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.MyAccountTest -->
+      <class name="com.tutorialsninja.testsuite.DesktopsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="setUp" is-config="true" duration-ms="2574" started-at="2022-12-13T21:44:18 GMT" finished-at="2022-12-13T21:44:21 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="classObjects" is-config="true" duration-ms="2" started-at="2022-12-13T21:44:21 GMT" finished-at="2022-12-13T21:44:21 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="verifyProductAreAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="verifyProductAreAddedToShoppingCartSuccessFully" duration-ms="8147" started-at="2022-12-13T21:44:21 GMT" finished-at="2022-12-13T21:44:29 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Hover over Desktops Menu [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //ul[@class='nav navbar-nav']/li[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Show All Desktops Link [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //a[contains(text(),'Show All Desktops')]]]]>
+            </line>
+            <line>
+              <![CDATA[Sort By A to Z [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //select[@id='input-sort']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Product [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //a[contains(text(),'HP LP3065')]]]]>
+            </line>
+            <line>
+              <![CDATA[The Product Name is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: (//div[@class='col-sm-4'])[2]/h1]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Calender Button [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> css selector: i[class='fa fa-calendar']]]]>
+            </line>
+            <line>
+              <![CDATA[Clear text [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //input[@id='input-quantity']]]]>
+            </line>
+            <line>
+              <![CDATA[Send quantity 1 to firstname field [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //input[@id='input-quantity']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Add To Cart Button [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> id: button-cart]]]>
+            </line>
+            <line>
+              <![CDATA[The Success Message is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='alert alert-success alert-dismissible']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Shopping Cart Button [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //a[contains(text(),'shopping cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[The Shopping Cart Text is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@id='content']/h1]]]>
+            </line>
+            <line>
+              <![CDATA[The Product in Cart is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[2]/a]]]>
+            </line>
+            <line>
+              <![CDATA[The Delivery Date is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[2]/small[1]]]]>
+            </line>
+            <line>
+              <![CDATA[The Model Name is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[3]]]]>
+            </line>
+            <line>
+              <![CDATA[The New Total Price is [[ChromeDriver: chrome on WINDOWS (9498c64c85669818272038f48c7aee11)] -> xpath: //div[@class='table-responsive']/table/tbody/tr/td[6]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductAreAddedToShoppingCartSuccessFullyTue_Dec_13_21_44_29_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductAreAddedToShoppingCartSuccessFullyTue_Dec_13_21_44_29_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductAreAddedToShoppingCartSuccessFullyTue_Dec_13_21_44_29_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductAreAddedToShoppingCartSuccessFully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="tearDown" is-config="true" duration-ms="602" started-at="2022-12-13T21:44:29 GMT" finished-at="2022-12-13T21:44:30 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="setUp" is-config="true" duration-ms="2611" started-at="2022-12-13T21:44:30 GMT" finished-at="2022-12-13T21:44:32 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classObjects()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="classObjects" is-config="true" duration-ms="1" started-at="2022-12-13T21:44:32 GMT" finished-at="2022-12-13T21:44:32 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classObjects -->
+        <test-method status="PASS" signature="verifyProductsAreArrangedInAlphabeticalOrder()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="verifyProductsAreArrangedInAlphabeticalOrder" duration-ms="1403" started-at="2022-12-13T21:44:32 GMT" finished-at="2022-12-13T21:44:34 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Hover over Desktops Menu [[ChromeDriver: chrome on WINDOWS (d420847e6df48e9f20d0f218a4391811)] -> xpath: //ul[@class='nav navbar-nav']/li[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Show All Desktops Link [[ChromeDriver: chrome on WINDOWS (d420847e6df48e9f20d0f218a4391811)] -> xpath: //a[contains(text(),'Show All Desktops')]]]]>
+            </line>
+            <line>
+              <![CDATA[Sort By Z to A [[ChromeDriver: chrome on WINDOWS (d420847e6df48e9f20d0f218a4391811)] -> xpath: //select[@id='input-sort']]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsAreArrangedInAlphabeticalOrderTue_Dec_13_21_44_34_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsAreArrangedInAlphabeticalOrderTue_Dec_13_21_44_34_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\project2-tutorialsninja-pagefactory-nauman/test-output/html/verifyProductsAreArrangedInAlphabeticalOrderTue_Dec_13_21_44_34_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductsAreArrangedInAlphabeticalOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@37574691]" name="tearDown" is-config="true" duration-ms="611" started-at="2022-12-13T21:44:34 GMT" finished-at="2022-12-13T21:44:35 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.DesktopsTest -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
